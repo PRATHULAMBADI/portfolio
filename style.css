@@ -29,7 +29,7 @@ nav,.nav-links{
 nav{
    justify-content:space-around;
    align-items: center;
-   height:17h;
+   height:17vh;
 }
 .nav-links{
    gap:2rem;
@@ -299,7 +299,7 @@ article .icon{
 /*---PROJECT SECTION---*/
 
 #project{
-   position:absolute;
+   position:relative;
 }
 .color-container{
    border-color:rgb(163,163,163);
